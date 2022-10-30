@@ -4,11 +4,29 @@
 
 Spaceship Titanic is a [kaggle competition](https://www.kaggle.com/competitions/spaceship-titanic).
 
-## Demo App
-
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
 
-## Section Heading
+## Business Understanding
+
+This is filler text, please replace this with text for this section.
+
+## Data Understanding
+
+This is filler text, please replace this with text for this section.
+
+## Data preparation
+
+This is filler text, please replace this with text for this section.
+
+## Modeling
+
+This is filler text, please replace this with text for this section.
+
+## Evaluation
+
+This is filler text, please replace this with text for this section.
+
+## Deployment
 
 This is filler text, please replace this with text for this section.
 
