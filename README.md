@@ -4,7 +4,7 @@
 
 You can learn more about this Kaggle competition [here](https://www.kaggle.com/competitions/spaceship-titanic).
 
-[![Streamlit App](https://enmagal-spaceship-titanic-streamlit-app-3xccri.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://enmagal-spaceship-titanic-streamlit-app-3xccri.streamlitapp.com/)
 
 ## Overview
 
