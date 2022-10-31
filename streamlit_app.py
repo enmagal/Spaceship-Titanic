@@ -1,5 +1,4 @@
 from audioop import add
-from turtle import title
 import streamlit as st
 
 import pandas as pd
@@ -236,4 +235,10 @@ elif add_sidebar == 'Feature Engineering':
 
     st.subheader('Cabin Location')
 
-    
+    df_train = fe.create_cabinLocation(df_train)
+    df_test = fe.create_cabinLocation(df_test)
+
+    cabin_order = ['A','B','C','D','E','F','G','T']
+
+    fig = px.histogram(data_frame = df_train, x = 'Cabin_deck', color = 'Transported',color_discrete_sequence = colors, opacity=opacity, barmode='group', title='Cabin Distribution',category_orders={'Cabin_deck': cabin_order})
+    st.plotly_chart(fig, use_container_width=True)
