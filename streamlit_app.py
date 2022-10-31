@@ -6,8 +6,6 @@ import matplotlib.pyplot as plt
 
 import plotly.express as px
 import plotly.figure_factory as ff
-import seaborn as sns
-sns.set(style='darkgrid', font_scale=1.4)
 
 import feature_engineering as fe
 
